@@ -21,7 +21,7 @@ This project provides a set of tools for analyzing the performance of stocks and
 
 ## UML Class Diagram
 
-![UML Class Diagram](image\portfolio_performance_uml_class_diagram.png)
+![UML Class Diagram](https://github.com/shubranshugupta/stock_performance_analysis/blob/main/image/portfolio_performance_uml_class_diagram.png)
 
 ## Usage
 
@@ -39,7 +39,7 @@ First, create a `Stock` object using `StockFactory` or `Portfolio` object using 
 Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/yourusername/stock-performance-analysis.git
+git clone https://github.com/shubranshugupta/stock_performance_analysis.git
 cd stock-performance-analysis
 pip install -r requirements.txt
 ```
